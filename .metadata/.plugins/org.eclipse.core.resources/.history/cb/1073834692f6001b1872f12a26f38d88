@@ -1,0 +1,16 @@
+server:
+  servlet:
+    encoding:
+      charset: utf-8
+      enabled: true
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/Honest?serverTimezone=Asia/Seoul
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    user
+
+
+
+
+        

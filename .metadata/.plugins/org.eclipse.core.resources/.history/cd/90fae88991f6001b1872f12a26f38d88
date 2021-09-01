@@ -1,0 +1,25 @@
+server:
+  servlet:
+    encoding:
+      charset: utf-8
+      enabled: true
+
+spring:
+  h2:
+    console:
+      enabled: true
+  datasource:
+    url: jdbc:mysql://localhost:3306/cos?severTimezone=Asia/Seoul
+    driver-class-name: org.h2.Driver
+    username: cos
+    password: 1234
+  jpa:
+    hibernate:
+      ddl-auto: update
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+        format_sql: true
+        show_sql: true
+    defer-datasource-initialization: true
+      
+        

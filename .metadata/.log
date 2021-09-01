@@ -1,0 +1,2836 @@
+!SESSION 2021-08-05 16:08:33.808 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data C:\book -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-05 16:08:54.558
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:08:54.558
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:08:54.558
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:08:54.558
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:08:54.558
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:08:54.558
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:08:54.558
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.eclipse.ui 2 0 2021-08-05 16:08:55.215
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:08:55.215
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-08-05 16:08:55.816
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-08-05 16:08:55.840
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-05 16:09:02.418
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-05 16:09:06.012
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.ui 2 0 2021-08-05 16:10:07.701
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:10:07.701
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:10:07.701
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:10:07.701
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:10:07.701
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:10:07.701
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-05 16:10:07.701
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY Activator 1 0 2021-08-05 16:10:13.822
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-05 16:10:14.421
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-05 16:10:15.128
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-05 16:10:15.821
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-05 16:10:16.944
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-05 16:11:07.365
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:07.371
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:07.372
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@403031c2[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:07.377
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:07.408
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:09.476
+!MESSAGE Boot LS startup time from start to initialized: 2090ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:09.543
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.fGCRiEbLisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:09.545
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:09.547
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:09.547
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:09.548
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:09.548
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.fGCRiEbL => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:09.556
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:09.561
+!MESSAGE buffering callback sts4.classpath.fGCRiEbL book-backend false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:09.562
+!MESSAGE executing callback sts4.classpath.fGCRiEbL 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 16:11:09.853
+!MESSAGE executing callback sts4.classpath.fGCRiEbL SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 18:01:24.910
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fGCRiEbL
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 18:01:24.911
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.fGCRiEbL
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 18:01:24.912
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 18:01:24.912
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fGCRiEbL => OK
+
+!ENTRY org.eclipse.ui 2 2 2021-08-05 18:01:25.366
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-08-06 17:31:01.039 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -data C:/book -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-06 17:31:04.892
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:31:04.892
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:31:04.892
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:31:04.892
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:31:04.892
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:31:04.892
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:31:04.892
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:12.853
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:12.853
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@78b13a51[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:12.856
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:12.917
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-06 17:31:14.828
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY Activator 1 0 2021-08-06 17:31:14.831
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-06 17:31:14.884
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:15.219
+!MESSAGE Boot LS startup time from start to initialized: 2330ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:15.346
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DfQLUiBTisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:15.350
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:15.353
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:15.354
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:15.354
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:15.355
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DfQLUiBT => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:15.370
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:15.378
+!MESSAGE buffering callback sts4.classpath.DfQLUiBT book-backend false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:15.379
+!MESSAGE executing callback sts4.classpath.DfQLUiBT 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:31:15.846
+!MESSAGE executing callback sts4.classpath.DfQLUiBT SUCCESS [done]
+
+!ENTRY org.eclipse.jface 2 0 2021-08-06 17:32:05.994
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-06 17:32:05.994
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@28af99b4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@28e8c2d6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY Activator 1 0 2021-08-06 17:32:06.244
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-06 17:32:15.597
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-06 17:33:04.400
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:04.403
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DfQLUiBT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:04.404
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.DfQLUiBT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:04.405
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:04.405
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DfQLUiBT => OK
+!SESSION 2021-08-06 17:33:11.377 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-06 17:33:23.536
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:33:23.536
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:33:23.536
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:33:23.536
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:33:23.536
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:33:23.536
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:33:23.536
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:30.162
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:30.162
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7be55279[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:30.167
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:30.215
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-06 17:33:31.281
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-06 17:33:31.323
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:32.284
+!MESSAGE Boot LS startup time from start to initialized: 2099ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:32.365
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.qBtwXjGzisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:32.369
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:32.371
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:32.378
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:32.379
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:32.379
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.qBtwXjGz => OK
+
+!ENTRY org.eclipse.jface 2 0 2021-08-06 17:33:33.265
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-06 17:33:33.265
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2d13cb4c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@51bce17f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:33.440
+!MESSAGE classpath=94 entries
+
+!ENTRY Activator 1 0 2021-08-06 17:33:33.446
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:33.449
+!MESSAGE buffering callback sts4.classpath.qBtwXjGz book-backend false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:33.449
+!MESSAGE executing callback sts4.classpath.qBtwXjGz 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:33:33.847
+!MESSAGE executing callback sts4.classpath.qBtwXjGz SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 17:33:34.913
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:33:35.303
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:34:16.401
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.qBtwXjGz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:34:16.402
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.qBtwXjGz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:34:16.403
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:34:16.404
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.qBtwXjGz => OK
+
+!ENTRY Activator 1 0 2021-08-06 17:34:16.408
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-06 17:34:16.751
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-08-06 17:35:04.452 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -data C:/book -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-06 17:35:08.447
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:35:08.447
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:35:08.447
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:35:08.447
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:35:08.447
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:35:08.447
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-06 17:35:08.447
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:15.384
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:15.385
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2579cc85[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:15.389
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:15.440
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.jface 2 0 2021-08-06 17:35:16.368
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-06 17:35:16.368
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6dd1e22,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1b9df329,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-06 17:35:16.906
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-06 17:35:16.944
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:17.532
+!MESSAGE Boot LS startup time from start to initialized: 2122ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:17.630
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.EPWiUEEzisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:17.634
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:17.636
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:17.637
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:17.637
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:17.638
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.EPWiUEEz => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:18.914
+!MESSAGE classpath=94 entries
+
+!ENTRY Activator 1 0 2021-08-06 17:35:18.920
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:18.929
+!MESSAGE buffering callback sts4.classpath.EPWiUEEz book-backend false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:18.930
+!MESSAGE executing callback sts4.classpath.EPWiUEEz 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:35:20.896
+!MESSAGE executing callback sts4.classpath.EPWiUEEz SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 17:35:21.693
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:22.091
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:44.618
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:44.703
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:47.165
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:47.653
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:48.461
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:48.699
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:49.688
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:49.744
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:49.901
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:50.956
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:51.419
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:56.438
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:56.728
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:57.299
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:57.512
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:58.007
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:58.456
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:58.920
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:59.864
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:35:59.986
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:00.128
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:00.550
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:02.720
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:02.984
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:03.175
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:03.700
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:07.466
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:08.079
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:09.235
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:14.030
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:14.236
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:14.604
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:14.977
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:18.670
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:18.875
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:19.261
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:19.472
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:22.717
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:22.930
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:22.992
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:23.195
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:43.631
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:43.842
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:44.511
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:44.729
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:45.480
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:36:45.708
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:15.331
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:15.546
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:16.096
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:16.300
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:16.615
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:16.827
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:16.894
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:17.102
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:17.722
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:17.931
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:18.829
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:19.036
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:22.993
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:23.161
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:23.313
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:23.526
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:27.049
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:30.966
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:32.602
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:34.264
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:34.322
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:34.517
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:35.469
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:35.681
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:40.821
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:40.974
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:41.190
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:41.234
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:41.375
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:41.582
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:42.008
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:42.214
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:57.047
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:57.251
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:57.645
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:57.977
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:58.895
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:37:59.126
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:38:17.882
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:38:18.640
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:38:18.905
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:38:19.129
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:38:19.539
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:38:20.849
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:38:58.021
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:38:58.226
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:06.223
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:06.431
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:07.030
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:07.246
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:08.975
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:09.180
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:09.558
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:09.769
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:10.095
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:10.311
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:10.926
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:11.138
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:20.606
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:20.808
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:25.297
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:25.903
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:26.743
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:27.455
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:28.005
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:28.319
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:28.607
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:29.029
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:29.423
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:29.918
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:30.451
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:30.935
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:37.422
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:52.814
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:53.024
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:53.301
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:53.506
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:54.127
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:54.349
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:59.254
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:39:59.460
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:00.215
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:00.428
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:10.121
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:10.337
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:12.938
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:13.139
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:39.972
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:40.181
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:40.763
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:40.970
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:43.891
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:44.090
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:44.375
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:44.761
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:46.224
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:46.439
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:46.798
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:47.010
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:51.373
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:51.588
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:51.750
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:40:52.167
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:10.774
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:10.977
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:11.586
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:11.793
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:14.214
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:14.326
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:14.534
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:14.834
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:15.048
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:19.587
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:19.794
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:20.499
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:21.377
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:22.779
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:22.982
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:50.575
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:50.788
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:55.110
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:55.328
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:55.842
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:56.052
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:56.714
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:41:56.927
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:02.582
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:02.792
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:11.042
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:11.246
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:11.405
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:11.623
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:12.890
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:13.093
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:25.814
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:26.023
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:26.174
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:26.388
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:26.567
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:26.774
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:27.601
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:27.803
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:27.847
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:28.048
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:28.215
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:28.428
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:28.966
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:29.141
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:29.301
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:29.461
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:29.622
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:29.775
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:29.941
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:30.061
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:30.106
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:30.286
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:30.655
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:30.865
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:30.916
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:31.077
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:31.298
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:31.564
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:31.787
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:31.861
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:32.061
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:32.104
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:32.238
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:32.457
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:32.750
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:32.965
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:46.432
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:47.379
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:42:47.627
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-06 17:42:49.276
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-06 17:46:01.651
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:46:04.416
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:46:23.026
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:46:24.010
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:46:25.966
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:46:28.428
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:46:28.429
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:46:28.435
+!MESSAGE classpath=95 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:46:28.442
+!MESSAGE buffering callback sts4.classpath.EPWiUEEz book-backend false 95
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:46:28.442
+!MESSAGE executing callback sts4.classpath.EPWiUEEz 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 17:46:28.473
+!MESSAGE executing callback sts4.classpath.EPWiUEEz SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 17:46:29.238
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:46:29.664
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:46:51.981
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:46:52.216
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:48:02.347
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:48:02.901
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:50:01.714
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:50:02.215
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:56:39.091
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-06 17:56:39.690
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 18:06:08.965
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.EPWiUEEz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 18:06:08.965
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.EPWiUEEz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 18:06:08.966
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 18:06:08.966
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.EPWiUEEz => OK
+!SESSION 2021-08-09 10:45:54.381 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-09 10:46:03.939
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 10:46:03.939
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 10:46:03.939
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 10:46:03.939
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 10:46:03.939
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 10:46:03.939
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 10:46:03.939
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:13.336
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:13.337
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@25bb69f2[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:13.339
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:13.375
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-09 10:46:15.003
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY Activator 1 0 2021-08-09 10:46:15.006
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-09 10:46:15.078
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:15.891
+!MESSAGE Boot LS startup time from start to initialized: 2545ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:16.007
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.HwJiAlnTisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:16.013
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:16.017
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:16.018
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:16.018
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:16.019
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.HwJiAlnT => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:16.033
+!MESSAGE classpath=95 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:16.041
+!MESSAGE buffering callback sts4.classpath.HwJiAlnT book-backend false 95
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:16.041
+!MESSAGE executing callback sts4.classpath.HwJiAlnT 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 10:46:16.488
+!MESSAGE executing callback sts4.classpath.HwJiAlnT SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:28:57.286
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.HwJiAlnT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:28:57.287
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.HwJiAlnT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:28:57.288
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:28:57.288
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.HwJiAlnT => OK
+
+!ENTRY org.eclipse.ui 2 2 2021-08-09 11:28:57.660
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-08-09 11:34:12.808 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-09 11:34:20.629
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 11:34:20.629
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 11:34:20.629
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 11:34:20.629
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 11:34:20.629
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 11:34:20.629
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 11:34:20.629
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:32.039
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:32.040
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4a42351b[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:32.043
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:32.091
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-09 11:34:34.097
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY Activator 1 0 2021-08-09 11:34:34.099
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-09 11:34:34.179
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:35.392
+!MESSAGE Boot LS startup time from start to initialized: 3339ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:35.494
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hFHBIfejisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:35.498
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:35.501
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:35.502
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:35.502
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:35.502
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hFHBIfej => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:35.531
+!MESSAGE classpath=95 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:35.539
+!MESSAGE buffering callback sts4.classpath.hFHBIfej book-backend false 95
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:35.540
+!MESSAGE executing callback sts4.classpath.hFHBIfej 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 11:34:36.015
+!MESSAGE executing callback sts4.classpath.hFHBIfej SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-09 11:34:45.830
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 11:34:47.510
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 11:34:50.667
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.jface 2 0 2021-08-09 11:35:12.007
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-09 11:35:12.007
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5b346ecd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4e0554ca,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2021-08-09 11:35:36.124
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-09 11:45:53.343
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 11:45:54.737
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 11:57:44.923
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 11:57:45.532
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 11:58:35.042
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 11:58:35.673
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 12:00:52.000
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 12:00:52.582
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 12:00:56.997
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 12:00:57.553
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:00:25.513
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:00:26.318
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:36:51.748
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:36:52.313
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:37:34.891
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:37:35.457
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:38:53.116
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:38:53.878
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:38:54.018
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:45:38.063
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:45:38.621
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:59:33.647
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 13:59:34.226
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:06:36.172
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:06:36.735
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:23:21.754
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:23:22.380
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:30:18.444
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:30:19.003
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:33:36.934
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:33:37.500
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:33:52.166
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:33:52.904
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:36:00.873
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:36:01.440
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:38:20.479
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 14:38:21.131
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:52:08.637
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hFHBIfej
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:52:08.638
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.hFHBIfej
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:52:08.639
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:52:08.639
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hFHBIfej => OK
+!SESSION 2021-08-09 14:57:54.901 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-09 14:58:29.771
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 14:58:29.771
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 14:58:29.771
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 14:58:29.771
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 14:58:29.771
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 14:58:29.771
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-09 14:58:29.771
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:39.083
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:39.084
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1a4b09b1[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:39.089
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:39.128
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-09 14:58:40.875
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY Activator 1 0 2021-08-09 14:58:40.876
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-09 14:58:40.933
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:41.978
+!MESSAGE Boot LS startup time from start to initialized: 2881ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:42.090
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hYoNtpmmisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:42.094
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:42.098
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:42.099
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:42.099
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:42.100
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hYoNtpmm => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:42.133
+!MESSAGE classpath=95 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:42.142
+!MESSAGE buffering callback sts4.classpath.hYoNtpmm book-backend false 95
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:42.143
+!MESSAGE executing callback sts4.classpath.hYoNtpmm 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 14:58:42.600
+!MESSAGE executing callback sts4.classpath.hYoNtpmm SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-08-09 14:58:57.187
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-09 15:13:08.116
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 15:13:10.517
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 15:13:12.426
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 15:16:40.572
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 15:16:41.178
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 15:29:22.672
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-09 15:29:23.283
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 18:04:50.448
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hYoNtpmm
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 18:04:50.449
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.hYoNtpmm
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 18:04:50.449
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-09 18:04:50.450
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hYoNtpmm => OK
+!SESSION 2021-08-10 08:46:30.885 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-10 08:46:37.727
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-10 08:46:37.727
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-10 08:46:37.727
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-10 08:46:37.727
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-10 08:46:37.727
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-10 08:46:37.727
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-10 08:46:37.727
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:46.387
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:46.387
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1b45b52b[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:46.391
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:46.440
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-10 08:46:47.978
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY Activator 1 0 2021-08-10 08:46:47.979
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-10 08:46:48.035
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:48.930
+!MESSAGE Boot LS startup time from start to initialized: 2532ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:49.048
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BBfpxTuEisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:49.053
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:49.056
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:49.057
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:49.057
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:49.058
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BBfpxTuE => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:49.074
+!MESSAGE classpath=95 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:49.081
+!MESSAGE buffering callback sts4.classpath.BBfpxTuE book-backend false 95
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:49.081
+!MESSAGE executing callback sts4.classpath.BBfpxTuE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 08:46:49.504
+!MESSAGE executing callback sts4.classpath.BBfpxTuE SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-10 09:01:22.884
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-10 09:04:16.081
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-10 09:06:20.677
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:06:22.682
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:06:25.669
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:08:29.706
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:08:30.276
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:08:55.330
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:08:55.893
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:14:20.641
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:14:21.203
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:16:07.458
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:16:08.021
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:18:59.176
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:18:59.737
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:21:51.759
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:21:52.324
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:25:15.458
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:25:16.023
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:27:40.241
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:27:40.802
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:28:28.418
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:28:28.979
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:30:46.023
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:30:46.587
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:37:54.789
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:37:55.352
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:39:19.402
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:39:19.963
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:40:06.560
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:40:07.124
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:40:22.106
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:40:22.667
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:40:37.272
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:40:37.831
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:42:50.155
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:42:50.716
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:44:32.785
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:44:33.342
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:58:07.254
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 09:58:07.819
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 10:00:09.099
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 10:00:09.667
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 10:00:14.206
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 10:00:14.821
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:08:24.283
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:08:24.887
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:09:42.219
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:09:42.821
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:10:07.414
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:10:07.973
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:10:18.444
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:10:19.134
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:10:44.467
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:10:45.033
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:12:39.488
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:12:40.098
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:21:55.818
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:21:56.381
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:22:24.569
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:22:25.132
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:22:50.139
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:22:50.700
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:23:16.445
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:23:17.009
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:24:53.152
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:24:53.717
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:38:49.743
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:38:50.296
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:40:36.346
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:40:36.894
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:41:19.724
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:41:20.329
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:43:13.797
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:43:14.357
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:44:51.894
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:44:52.491
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:45:59.958
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:46:00.556
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:46:25.167
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:46:25.723
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:46:33.588
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:46:34.146
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:52:29.017
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 13:52:29.567
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-10 14:07:03.515
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-10 14:14:51.293
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:14:52.288
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:21:02.141
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:21:02.708
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:21:15.434
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:21:15.995
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:22:31.739
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:22:32.298
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:25:18.219
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:25:18.781
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:30:04.962
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:30:05.529
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:30:59.022
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:30:59.582
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:31:08.880
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:31:09.443
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:36:21.844
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:36:22.403
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:39:37.229
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:39:37.796
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:40:20.276
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:40:20.841
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:40:30.452
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:40:31.010
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:40:53.633
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:40:54.201
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-08-10 14:42:18.962
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package com.cos.book;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.HashSet;
+
+import org.apache.logging.log4j.util.Chars;
+
+public class Sales {
+	
+	public boolean containsDuplicate(int[] nums) {
+        HashMap<Integer, Integer> numMap = new HashMap<>();
+		for(int i=0; i<nums.length; i++) {
+        	if(numMap.containsKey(nums[i])) return true;
+        	numMap.put(nums[i], nums[i]);
+        }
+		return false;	
+    }
+	public int singleNumber(int[] nums) {
+		if(nums.length == 1) return nums[0];
+		HashMap<Integer, Integer> numMap = new HashMap<>();
+		for(int i=0; i<nums.length; i++) {
+			if(numMap.containsKey(nums[i])) numMap.remove(nums[i]);
+		    else numMap.put(nums[i], i);	
+		}
+		int answer = 0;
+		for(Integer key: numMap.keySet()) answer = nums[numMap.get(key)];
+		return answer;
+	}
+	
+	public int[] plusOne(int[] digits) {
+		if(digits.length == 1) {
+        	if(digits[0] == 9) {
+        		return new int [] {1, 0};
+        	} else {
+        		return new int [] {digits[0]+1};
+        	}
+        }
+        for(int i=digits.length-1; i>=0; i--) {
+        	if(digits[i] == 9) {
+        		digits[i] = 0;
+        		if(i==0) {
+        			int [] newDigits = new int[digits.length+1];
+        			newDigits[0] = 1;
+        			for(int j=1; j<newDigits.length; j++) {
+        				newDigits[j] = digits[j-1];
+        			}
+        			return newDigits;
+        		}
+        	} else {
+        		digits[i] += 1;
+        		return digits;
+        	}
+        }
+        return digits;
+	}
+	
+	public void moveZeroes(int[] nums) {
+        if(nums.length==1) System.out.println(Arrays.toString(nums));
+        
+        for(int i=0; i<nums.length; i++) {
+        	if(nums[i] != 0) continue;
+        	int cnt = 0;
+        	for(int j=i+1; j<nums.length; j++) {
+        		if(nums[j] == 0) continue;
+        		else {
+        			int temp = nums[i];
+        			nums[i] = nums[j];
+        			nums[j] = temp;
+        			cnt = 1;
+        			break;
+        		}
+        	}
+        	if(cnt == 0) break;
+        }
+        System.out.println(Arrays.toString(nums));
+    }
+	
+	public int[] twoSum(int[] nums, int target) {
+        
+        HashMap<Integer, Integer> numMap = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+        	int minus = target - nums[i];
+            if (numMap.containsKey(minus)) {
+                return new int[] { numMap.get(minus), i };
+            }
+            numMap.put(nums[i], i);
+        }
+        return null;
+    }
+	/*
+	public boolean isValidSudoku(char[][] board) {
+		
+		ArrayList<HashMap<String, Integer>> lists = new ArrayList<>();
+        for(int i=0; i<board.length; i++) {
+        	lists.add(new HashMap<String, Integer>()); // hashMap 객체 생성
+        	for(int j=0; j<board.length; j++) {
+        		String key = String.valueOf(board[i][j]); // 현재 배열의 값
+        		if(key.equals(".")) continue;  // '.' 은 건너뛰기
+        		for(int k=0; k<lists.size(); k++) {   // ArrayList의 0번째 hashMap 객체부터 끝까지 현재 배열의 값을 키 값으로 가지고 있는지 확인
+        			if(lists.get(k).containsKey(key)) if(lists.get(k).get(key) == j) return false;
+        		}
+        		if(lists.get(i).containsKey(key)) return false;  // 현재 ArrayList의 hashMap 객체에 이미 같은 값이 있는지 확인
+    			lists.get(i).put(String.valueOf(board[i][j]), Integer.valueOf(j));  // 모두 통과했다면 값을 집어넣기
+        	}
+        }
+        
+        for(int i=0; i<lists.size(); i++) {
+            for(String key: lists.get(i).keySet()) {
+            	System.out.println("key: "+key+", value: "+lists.get(i).get(key));
+            }
+            System.out.println("==================================================");
+        }
+		return true;
+		
+		ArrayList<HashMap<Character, Character>> row = new ArrayList<>();
+		ArrayList<HashMap<Character, Character>> col = new ArrayList<>();
+		ArrayList<HashMap<Character, Character>> box = new ArrayList<>();
+		
+		for(int i=0; i<boardNum; i++) {
+			set[i] = new HashSet<Character>();
+			row.add(new HashMap<Character, Character>(boardNum));
+			col.add(new HashMap<Character, Character>(boardNum));
+			box.add(new HashMap<Character, Character>(boardNum));
+		}
+		for(int i=0; i<boardNum; i++) {
+			for(int j=0; j<boardNum; j++) {
+				String rowChar = String.valueOf(board[i][j]);
+				String colChar = String.valueOf(board[j][i]);
+				if(!row.get(i).containsKey(board[i][j]) && !rowChar.equals(".")) {
+					row.get(i).put(board[i][j], board[i][j]);
+					System.out.println("row.get("+j+").get(board["+i+"]["+j+"]:"+row.get(j).get(board[i][j]));
+				} else {
+					if(!rowChar.equals(".")) return false;
+				}
+				if(!col.get(i).containsKey(board[j][i]) && !colChar.equals(".")) {
+					col.get(i).put(board[j][i], board[j][i]);
+				} else {
+					if(!colChar.equals(".")) return false;
+				}
+				
+				int boxNum = i / 3 * 3 + j / 3;
+				if(!box.get(boxNum).containsKey(board[i][j]) && !rowChar.equals(".")) {
+					box.get(boxNum).put(board[i][j], board[i][j]);
+				} else {
+					if(!rowChar.equals(".")) return false;
+				}
+			}
+		}
+    }*/
+	
+	public boolean isValidSudoku(char[][] board) {
+		int boardNum = 9;
+		
+		HashSet<Character> [] rowSet = new HashSet[9];
+		HashSet<Character> [] colSet = new HashSet[9];
+		HashSet<Character> [] boxSet = new HashSet[9];
+		
+		for(int i=0; i<boardNum; i++) {
+			rowSet[i] = new HashSet<Character>();
+			colSet[i] = new HashSet<Character>();
+			boxSet[i] = new HashSet<Character>();
+		}
+		
+		for(int row = 0; row < boardNum; row++) {
+			for(int col = 0; col <boardNum; col++) {
+				char value = board[row][col];
+				
+				if(value == '.') continue;
+				
+				if(rowSet[row].contains(value)) return false;
+				rowSet[row].add(value);
+				
+				if(colSet[col].contains(value)) return false;
+				colSet[col].add(value);
+				
+				int boxNum = row / 3 * 3 + col / 3;
+				
+				if(boxSet[boxNum].contains(value)) return false;
+				boxSet[boxNum].add(value);
+			}
+		}
+		
+		return true;
+    }
+	
+	public void rotate(int[][] matrix) {
+        if(matrix.length <= 1) return;
+        int length = matrix.length;
+        
+        int [][] cp_matrix = new int[length][length];
+        for(int i=0; i < length; i++) {
+        	System.arraycopy(matrix[i], 0, cp_matrix[i], 0, length);
+        }
+        for(int i=0; i < matrix.length; i++) {
+        	length--;
+        	for(int j=0; j < matrix.length; j++) {
+        		matrix[j][i] = cp_matrix[length][j];
+        	}
+        }
+    }
+	int cnt_num =
+	public int climbStairs(int n) {
+		
+		if(n <= 3) return n;
+		
+		return climbStairs(n-1) + climbStairs(n-2);
+	}
+	public static void main(String[] args) {
+		Sales s = new Sales();
+		int [] nums = {0,1,0,3,12};
+		int [][] matrix = {{1,2,3}, {4,5,6}, {7,8,9}};
+		
+		int c = s.climbStairs(5);
+		for(int i=1; i<20; i++) {
+			int tmp = s.climbStairs(i);
+			System.out.println("i: "+i+", temp: "+tmp);
+		}
+
+		// false c: 1836311903
+	}
+
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException: startPos = 2580 and length is -1.
+This breaks the rule that lengths are not allowed to be negative. Affected Node:
+class org.eclipse.jdt.core.dom.FieldDeclaration: int cnt_num;
+
+	at lombok.eclipse.agent.PatchDiagnostics.setSourceRangeCheck(PatchDiagnostics.java:36)
+	at org.eclipse.jdt.core.dom.ASTNode.setSourceRange(ASTNode.java)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToFieldDeclaration(ASTConverter.java:3661)
+	at org.eclipse.jdt.core.dom.ASTConverter.checkAndAddMultipleFieldDeclaration(ASTConverter.java:541)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:494)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2021-08-10 14:42:18.963
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException: startPos = 2580 and length is -1.
+This breaks the rule that lengths are not allowed to be negative. Affected Node:
+class org.eclipse.jdt.core.dom.FieldDeclaration: int cnt_num;
+
+	at lombok.eclipse.agent.PatchDiagnostics.setSourceRangeCheck(PatchDiagnostics.java:36)
+	at org.eclipse.jdt.core.dom.ASTNode.setSourceRange(ASTNode.java)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToFieldDeclaration(ASTConverter.java:3661)
+	at org.eclipse.jdt.core.dom.ASTConverter.checkAndAddMultipleFieldDeclaration(ASTConverter.java:541)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:494)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2021-08-10 14:42:18.964
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException: startPos = 2580 and length is -1.
+This breaks the rule that lengths are not allowed to be negative. Affected Node:
+class org.eclipse.jdt.core.dom.FieldDeclaration: int cnt_num;
+
+	at lombok.eclipse.agent.PatchDiagnostics.setSourceRangeCheck(PatchDiagnostics.java:36)
+	at org.eclipse.jdt.core.dom.ASTNode.setSourceRange(ASTNode.java)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToFieldDeclaration(ASTConverter.java:3661)
+	at org.eclipse.jdt.core.dom.ASTConverter.checkAndAddMultipleFieldDeclaration(ASTConverter.java:541)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:201)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:494)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY Activator 1 0 2021-08-10 14:43:30.693
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:43:31.258
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:44:26.494
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:44:27.061
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:44:45.074
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 14:44:45.642
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 15:35:56.198
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 15:35:56.760
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 15:36:06.214
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 15:36:06.779
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 16:44:27.991
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 16:44:28.546
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 16:45:50.366
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 16:45:50.925
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-10 18:01:46.269
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 18:01:46.586
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BBfpxTuE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 18:01:46.587
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.BBfpxTuE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 18:01:46.587
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-10 18:01:46.587
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BBfpxTuE => OK
+
+!ENTRY Activator 1 0 2021-08-10 18:01:46.852
+!MESSAGE Has main method computation for project 'book-backend'
+!SESSION 2021-08-11 08:51:04.970 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-08-11 08:51:14.940
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-11 08:51:14.940
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-11 08:51:14.940
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-11 08:51:14.940
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-11 08:51:14.940
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-11 08:51:14.940
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-08-11 08:51:14.940
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:25.522
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:25.522
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@187a33d4[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:25.528
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:25.568
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-08-11 08:51:27.240
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY Activator 1 0 2021-08-11 08:51:27.241
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-11 08:51:27.292
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\MS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:28.329
+!MESSAGE Boot LS startup time from start to initialized: 2792ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:28.445
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.EFhxYtCYisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:28.450
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:28.452
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:28.454
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:28.454
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:28.455
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.EFhxYtCY => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:28.470
+!MESSAGE classpath=95 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:28.478
+!MESSAGE buffering callback sts4.classpath.EFhxYtCY book-backend false 95
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:28.479
+!MESSAGE executing callback sts4.classpath.EFhxYtCY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 08:51:28.985
+!MESSAGE executing callback sts4.classpath.EFhxYtCY SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-11 09:07:03.206
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 09:07:07.717
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 09:08:27.787
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 09:08:28.349
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 09:09:31.260
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 09:09:31.815
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 09:09:49.255
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 09:09:49.818
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 09:10:09.416
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 09:10:09.988
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:22:19.122
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:22:19.689
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:23:12.783
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:23:13.347
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:24:56.251
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:24:56.852
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:25:21.926
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:25:22.497
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:26:07.777
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:26:08.351
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:26:46.596
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:26:47.201
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:37:13.005
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:37:13.571
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:45:59.237
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 11:45:59.796
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:12:40.321
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:12:40.878
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:12:59.456
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:13:00.023
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:22:36.140
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:22:36.752
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:22:43.031
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:22:43.592
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:24:24.061
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:24:24.622
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:28:55.071
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:28:55.629
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:31:43.600
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:31:44.176
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:32:27.721
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:32:28.282
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:35:30.938
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:35:31.492
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:37:48.938
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:37:49.491
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:40:00.426
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:40:00.996
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:40:24.778
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:40:25.339
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:41:07.994
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:41:08.553
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:42:38.479
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:42:39.093
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:43:55.815
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:43:56.372
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:47:10.823
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:47:11.383
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:48:03.068
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:48:03.640
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:53:06.469
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:53:07.028
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:55:50.781
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:55:51.351
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:58:50.322
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:58:50.898
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:59:45.418
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 13:59:45.985
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 14:04:10.846
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 14:04:11.425
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 14:04:42.313
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 14:04:42.868
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 14:05:11.536
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 14:05:12.101
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 14:14:34.256
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 14:14:34.816
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 14:16:09.278
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 14:16:09.840
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY Activator 1 0 2021-08-11 18:06:46.828
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 18:06:47.118
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.EFhxYtCY
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 18:06:47.119
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.EFhxYtCY
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 18:06:47.119
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-11 18:06:47.120
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.EFhxYtCY => OK
+
+!ENTRY Activator 1 0 2021-08-11 18:06:47.430
+!MESSAGE Has main method computation for project 'book-backend'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-11 18:06:47.630
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
